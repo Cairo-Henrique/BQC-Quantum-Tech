@@ -1,4 +1,4 @@
-# 📘 Brazil Quantum Camp — Trilha Quantum Tech
+# Brazil Quantum Camp — Trilha Quantum Tech
 
 Este repositório contém **anotações, materiais de estudo e conteúdos organizados** da **Trilha Quantum Tech** do **Brazil Quantum Camp**, um programa de formação em **Computação Quântica** realizado pela **CESAR School** e pelo **Instituto Eldorado**, em parceria com a **Softex** e o **MCTI**.
 
@@ -6,7 +6,7 @@ Os materiais aqui reunidos seguem o conteúdo oficial do curso, cobrindo desde o
 
 ---
 
-## 🎯 Objetivo do Repositório
+## Objetivo do Repositório
 
 * Consolidar os conteúdos da Trilha **Quantum Tech** em um único lugar
 * Servir como material de **consulta, revisão e estudo**
@@ -14,11 +14,11 @@ Os materiais aqui reunidos seguem o conteúdo oficial do curso, cobrindo desde o
 
 ---
 
-## 🧠 Conteúdos Abordados
+## Conteúdos Abordados
 
 O curso está dividido em **três grandes blocos**, refletidos na organização do material.
 
-### 🔹 Bloco 01 — Fundamentos
+### Bloco 1 — Fundamentos
 
 * Introdução à Computação Quântica
 * Álgebra Linear aplicada à MQ
@@ -38,7 +38,7 @@ O curso está dividido em **três grandes blocos**, refletidos na organização 
 
 ---
 
-### 🔹 Bloco 02 — Algoritmos e Otimização
+### Bloco 2 — Algoritmos e Otimização
 
 * Introdução à Teoria da Computação
 * Algoritmos Quânticos
@@ -49,7 +49,7 @@ O curso está dividido em **três grandes blocos**, refletidos na organização 
 
 ---
 
-### 🔹 Bloco 03 — Machine Learning Clássico e Quântico
+### Bloco 3 — Machine Learning Clássico e Quântico
 
 * Introdução à Aprendizagem de Máquina Clássica
 * Redes Neurais Artificiais
@@ -61,7 +61,7 @@ O curso está dividido em **três grandes blocos**, refletidos na organização 
 
 ---
 
-## 🧪 Conteúdo Prático
+## Notebooks
 
 O repositório também referencia **notebooks em Python (Google Colab)** utilizados durante o curso, abordando:
 
@@ -72,12 +72,12 @@ O repositório também referencia **notebooks em Python (Google Colab)** utiliza
 
 ---
 
-## Período: 
+## Período
 
 **Janeiro – Março de 2026**
 
 ---
 
-## 📌 Observações
+## Observação
 
 * Alguns conteúdos são de autoria dos professores que ministraram o curso.
