@@ -20,21 +20,10 @@ O curso está dividido em **três grandes blocos**, refletidos na organização 
 
 ### Bloco 1 — Fundamentos
 
-* Introdução à Computação Quântica
-* Álgebra Linear aplicada à MQ
-* Espaços de Hilbert e Notação de Dirac
-* Qubits e Esfera de Bloch
-* Operadores unitários e hermitianos
-* Produto tensorial e sistemas compostos
-* Portas quânticas (Pauli, Hadamard, CNOT, rotações, MCX, MCZ)
-* Postulados da Mecânica Quântica
-* Estados emaranhados e Estados de Bell
-* Protocolos quânticos:
-
-  * Codificação Superdensa
-  * Teletransporte Quântico
-* Introdução filosófica: realismo, localidade e variáveis ocultas
-* Desigualdade de Bell (CHSH)
+* Itrodução à Computação Quântica
+* Álgebra Linear
+* Introdução à Programação
+* Circuitos Quânticos
 
 ---
 
