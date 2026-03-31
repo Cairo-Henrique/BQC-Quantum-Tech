@@ -20,7 +20,7 @@ O curso está dividido em **três grandes blocos**, refletidos na organização 
 
 ### Bloco 1 — Fundamentos
 
-* Itrodução à Computação Quântica
+* Introdução à Computação Quântica
 * Álgebra Linear
 * Introdução à Programação
 * Circuitos Quânticos
