@@ -22,6 +22,7 @@ O curso está dividido em **três grandes blocos**, refletidos na organização 
 
 * Introdução à Computação Quântica
 * Álgebra Linear
+* Postulados da Mecânica Quântica
 * Introdução à Programação
 * Circuitos Quânticos
 
@@ -54,10 +55,9 @@ O curso está dividido em **três grandes blocos**, refletidos na organização 
 
 O repositório também referencia **notebooks em Python (Google Colab)** utilizados durante o curso, abordando:
 
-* Introdução à programação
-* Simulação de circuitos quânticos
-* Implementação de medições em sistemas compostos
-* Aplicações práticas de conceitos teóricos
+* Prática dos conceitos ensinados no curso
+* Simulação de circuitos quânticos em Qiskit
+* Projetos do grupo QInvest (meu grupo) sobre aplicações do algoritmo Variational Quantum Eigensolver (VQE)
 
 ---
 
